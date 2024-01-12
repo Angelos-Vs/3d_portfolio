@@ -1,8 +1,13 @@
-# React + Vite
+# 3d_Portfolio
+This is a 3d portfolio page that was built for sharing purposes in order 
+to provide a brief overview of my work, but also as a practice of the used technologies and frameworks.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### How do I run this locally?
 
-Currently, two official plugins are available:
+1. Clone the repository
+2. Run `npm install --legacy-peer-deps`
+3. Run `npm run dev`
+4. Open browser and go to `http://localhost:5173`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+You can find a guide on how to build a similar  project on : https://www.youtube.com/watch?v=ymGB1lqP1CM](https://www.youtube.com/watch?v=0fYi8SGA20k)https://www.youtube.com/watch?v=0fYi8SGA20k
