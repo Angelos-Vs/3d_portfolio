@@ -148,7 +148,7 @@ import {
     {
       name: "TestTube Page",
       description:
-        "A youtube webpage clone project that resembles a similar ui layout of the youtube page, with mock data.The reason of creation was to experiment and develop expertise and familirity with the included technologies and frameworks.",
+        "A youtube webpage clone project that resembles a similar UI layout of the youtube page, with mock data.The reason of creation was to experiment and develop expertise and familiarity with the included technologies and frameworks.",
       tags: [
         {
           name: "react",
