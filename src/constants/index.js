@@ -107,7 +107,7 @@ import {
       company_name: "M.A. RedPill Technologies LTD",
       icon: redpill,
       iconBg: "#383E56",
-      date: "March 2023 - Today",
+      date: "September 2023 - January 2024",
       points: [
         "Developing and maintaining web medical applications using React.js, tailwindcss and typescript.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
